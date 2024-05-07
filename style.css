@@ -29,7 +29,7 @@
     width: 500%;
     height: 500%;
     border-radius: 50%;
-    background: #ffffff;
+    background: #d8b37c;
 }
 
 .carousel::before{
@@ -52,5 +52,8 @@
     scroll-snap-align: center;
     background-size: cover;
     background-position: 50%;
-    border: 10px solid #ffffff;
+    border: 10px solid #d8b37c;
+}
+body{
+    background-color: #d8b37c;
 }
